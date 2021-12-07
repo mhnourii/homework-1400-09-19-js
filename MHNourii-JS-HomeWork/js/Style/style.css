@@ -1,0 +1,17 @@
+
+body {
+    background-color: gray;
+    margin: 20px;
+}
+#main_div{
+    background-color:beige;
+    width: 1024px;
+    height:1024px;
+    margin: 0 auto;
+    text-align: center;
+}
+.jsCan{
+    margin: 0 auto;
+    width: 1024px;
+    height: 556pxpx;
+}
